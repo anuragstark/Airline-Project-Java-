@@ -41,6 +41,7 @@ User Registration: Allows users to register with auto-generated Customer IDs.
 Flight Selection: Users can search for flights based on their departure and arrival points.
 Ticket Booking: Enables users to book tickets, with unique Ticket IDs generated automatically.
 Admin Controls: Admins have the ability to manage flights and user data.
+
 ------------------------------------------------------------------------------------------------
 How to Book a Ticket
 Follow these steps to book your flight:
@@ -64,6 +65,7 @@ Step 4: View Your Ticket
 Go to the View Ticket option.
 Enter your Ticket ID to retrieve your ticket.
 Your ticket will display details like Flight Name, Arrival, Departure, Customer Name, and Contact Information.
+
 -----------------------------------------------------------------------------------------------------------------
 Enjoy your journey with our seamless Airline Ticket Booking System...xD
 AnuragStark
